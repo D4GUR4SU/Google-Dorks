@@ -145,9 +145,6 @@ function PrintTheResults {
 echo " "
 }
 
-rm -r $domain
-mkdir $domain
-
 # Function to print the results ### FINAL
 echo -e "\n${PURPLE}Verifying Login Page:${END}"; PrintTheResults "${loginpagearray[@]}"; > $domain.txt
 echo -e "\n${PURPLE}Checking Specific Files:${END}"; PrintTheResults "${filetypesarray[@]}"; >> $domain.txt
