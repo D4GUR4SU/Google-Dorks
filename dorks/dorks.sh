@@ -58,7 +58,7 @@ dtdcim='intitle:%22index%20of%22%20%22DCIM%22' 			# Picture
 dtftp='intitle:%22index%20of%22%20%22ftp%22' 			# FTP
 dtbackup='intitle:%22index%20of%22%20%22backup%22'		# BackUp
 dtmail='intitle:%22index%20of%22%20%22mail%22'			# Mail
-dtpassword='intitle:%22index%20of%22%20%22password%22'		# Password
+dtpassword='intitle:%22index%20of%22%20%22password%22'	# Password
 dtpub='intitle:%22index%20of%22%20%22pub%22'			# Pub
 dirtravarray=($dtparent $dtdcim $dtftp $dtbackup $dtmail $dtpassword $dtpub)
 
