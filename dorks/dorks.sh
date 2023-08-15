@@ -1,6 +1,6 @@
 #!/bin/bash
 # Enumeration with google Dorks 
-# By Dagurasu56
+# By D4GUR4SU
 
 # Variables
 ## General
@@ -83,7 +83,7 @@ echo -e "${YELLOW}\t██║   ██║██║   ██║██║   ██
 echo -e "${YELLOW}\t╚██████╔╝╚██████╔╝╚██████╔╝╚██████╔╝███████╗███████╗    ██████╔╝╚██████╔╝██║  ██║██║  ██╗███████║";
 echo -e "${YELLOW}\t ╚═════╝  ╚═════╝  ╚═════╝  ╚═════╝ ╚══════╝╚══════╝    ╚═════╝  ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝";
 echo -e "${YELLOW}\t                                         v1.0                                                    ";
-echo -e "${YELLOW}\t                                .:Coded by Dagurasu56:.                                          ";
+echo -e "${YELLOW}\t                                .:Coded by D4GUR4SU:.                                          ";
 
 # Verifying Domain
 	if [ -z "$domain" ] 
